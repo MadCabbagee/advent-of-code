@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ZLSSettings">
+    <option name="zlsPath" value="C:\zls-x86_64-windows\bin\zls.exe" />
+  </component>
+  <component name="ZigProjectSettings">
+    <option name="toolchainHomeDirectory" value="" />
+  </component>
+</project>
