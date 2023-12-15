@@ -1,5 +1,11 @@
 package me.madcabbage.aoc;
 
-public interface IPart<T> {
-    void run(T parsedInput);
+import java.util.List;
+
+public interface IPart {
+    void run(List<String> input);
+
+    AbstractDay getDay();
+
+    void setDay(AbstractDay day);
 }
